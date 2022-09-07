@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "target",
+    "module": "commonjs",
+    "target": "es2020",
+    "lib": ["es2020"],
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "skipLibCheck": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true
+  }
+}
